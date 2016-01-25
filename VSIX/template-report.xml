@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateReport>
+  <ItemTemplates />
+  <ProjectTemplates>
+    <ProjectTemplate Path="..\IncDomain\_Definitions\_project.vstemplate.xml" Name="IncDomain" Description="Incoding back-end project" ProjectType="CSharp" ProjectSubType="" />
+    <ProjectTemplate Path="..\IncUI\_Definitions\_project.vstemplate.xml" Name="IncUI" Description="Incoding front-end project" ProjectType="CSharp" ProjectSubType="" />
+    <ProjectTemplate Path="..\UnitTest\_Definitions\_project.vstemplate.xml" Name="IncUnitTest" Description="Incoding unit test project" ProjectType="CSharp" ProjectSubType="" />
+  </ProjectTemplates>
+  <Snippets />
+</TemplateReport>

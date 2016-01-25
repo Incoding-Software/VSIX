@@ -26,3 +26,14 @@
 *.exe
 *.out
 *.app
+/IncDomain/bin
+/IncDomain/obj
+/IncUI/Log
+/IncUI/obj
+/IncUI/bin
+/IncUI/bin
+/IncUI/obj
+/UnitTest/bin
+/UnitTest/obj
+/VSIX/bin
+/VSIX/obj
